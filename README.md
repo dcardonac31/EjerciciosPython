@@ -1,2 +1,2 @@
-# RetoPythonMisionTIC2022
-Ejercicios Python Mision TIC 2022
+# EjerciciosPython
+Ejercicio curso de python básico
